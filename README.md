@@ -5,6 +5,7 @@
 - 启动本地mysql数据库
 - 启动本地redis服务
 - 启动本地elasticsearch服务
+- 启动mongoDB服务
 - 启动应用
 
 
